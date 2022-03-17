@@ -12,8 +12,8 @@ This is a professional portfolio of me. It includes the main projects I did in t
 
 ## Visuals
 
-![Screenshot of day planner web](./assets/images/2022-03-04_20-05-06.png)
+![Screenshot of portfolio web](./assets/image)
 
-# A link to the [Day Planner](https://anastasiia-ciloci.github.io/Advanced-Portfolio/)
+# A link to the [Advanced Portfolio](https://anastasiia-ciloci.github.io/Advanced-Portfolio/)
 
-Or click [here](https://anastasiia-ciloci.github.io/Advanced-Portfolio/) to open a day planner.
+Or click [here](https://anastasiia-ciloci.github.io/Advanced-Portfolio/) to open a portfolio.
