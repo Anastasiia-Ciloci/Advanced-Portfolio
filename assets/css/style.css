@@ -84,6 +84,7 @@ div .spacer-3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 hr {
   height: 2%;
@@ -96,11 +97,12 @@ div main {
   margin: 2% 13%;
   background-image: linear-gradient(
     to bottom,
-    rgba(143, 160, 172, 0.418),
+    rgba(112, 180, 228, 0.418),
     rgba(150, 216, 194, 0.65),
     rgba(42, 33, 63, 0.445)
   );
   border-radius: 5px;
+
   box-shadow: 40px, 50px, #80808050;
 }
 
@@ -126,50 +128,74 @@ main .left {
   align-items: space-between;
   justify-content: space-evenly;
   position: static;
-  width: 70%;
+  width: 60%;
 }
 #project-1,
 #project-2,
 #project-3,
-#project-4 {
+#project-4,
+#project-5 {
   margin-bottom: 20px;
   height: 250px;
   width: 30%;
   border: 5px solid rgb(114, 132, 172);
   text-decoration: none;
+  margin: 20px;
+  margin-top: 3%;
 }
 #project-1 {
-  background-image: url("../images/project images/BW-Search\ \(1\)\ \(1\).png");
+  background-image: url("../images/project images/2022-04-12_08-05-19.png");
   width: 70%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #project-2 {
-  background-image: url("../images/project images/2022-03-04_20-05-06.png");
-}
-#project-1 .name-bars {
-  width: 30% !important;
-}
-#project-4 {
-  background-image: url("../images/project images/2022-03-16_18-01-23.png");
+  background-image: url("../images/project images/BW-Search\ \(1\)\ \(1\).png");
+  width: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 #project-3 {
+  background-image: url("../images/project images/2022-03-04_20-05-06.png");
+  width: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+/* #project-3 .name-bars {
+  width: 70% !important;
+} */
+#project-4 {
+  background-image: url("../images/project images/2022-03-16_18-01-23.png");
+  width: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#project-5 {
   background-image: url("../images/project images/password-generated.png");
+  width: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 #project-1:hover,
 #project-2:hover,
 #project-3:hover,
-#project-4:hover {
-  opacity: 0.7;
+#project-4:hover,
+#project-5:hover {
+  opacity: 0.5;
   transition: all 250ms ease;
 }
 
 .name-bars {
-  color: rgb(251, 251, 251);
+  color: rgb(117, 255, 234);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: 2px solid #7284aca2;
-  background-color: #7284aca2;
+  font-size: 50px;
+  border: 2px solid #060c18fb;
+  background-color: #0b1332fd;
   width: 50%;
   position: relative;
   border-bottom-right-radius: 20px;

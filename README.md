@@ -8,7 +8,7 @@
 
 # Description
 
-This is a professional portfolio of me. It includes the main projects I did in the last month.
+This is a professional portfolio of me. It includes the main projects I did in the last few month.
 
 ## Visuals
 
