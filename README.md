@@ -13,7 +13,7 @@ This is a professional portfolio of me. It includes the main projects I did in t
 ## Visuals
 
 ![Screenshot of portfolio web](./assets/images/images_for-README/2022-03-16_21-22-59.png)
-![Screenshot of portfolio web](./assets/images/images_for-README/2022-03-16_21-23-46.png)
+![Screenshot of portfolio web](./assets/images/images_for-README/2022-04-15_16-54-06.png)
 
 # A link to the [Advanced Portfolio](https://anastasiia-ciloci.github.io/Advanced-Portfolio/)
 
